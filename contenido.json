@@ -1,0 +1,27 @@
+{"contenido":[
+        {"tag":"saludo",
+            "patrones":["hola", "un saludo", "hello"],
+			"respuestas": ["Hola que tal!", "Como te va?", "Un gusto verte"]
+        },
+		{"tag":"despedida",
+			"patrones":["adios", "hasta la proxima", "nos vemos"],
+			"respuestas":["cuidate", "nos vemos pronto", "te estare esperando"]
+		},
+		{"tag":"que es",
+			"patrones":["¿Que es el covid?", "¿Que es", "covid"],
+			"respuestas":["El COVID19 es la enfermedad infecciosa causada por el coronavirus que se ha descubierto más recientemente. Tanto este nuevo virus como la enfermedad que provoca eran desconocidos antes de que estallara el brote en Wuhan (China) en diciembre de 2019. Actualmente la COVID‑19 es una pandemia que afecta a muchos países de todo el mundo."]
+		},
+		{"tag":"cura",
+			"patrones":["Tiene cura?", "cura"],
+			"respuestas":["Aunque algunas soluciones de la medicina occidental o tradicional o remedios caseros pueden resultar reconfortantes y aliviar los síntomas leves de la COVID-19, hasta ahora ningún medicamento ha demostrado prevenir o curar esta enfermedad. "]
+		},
+		{"tag":"prevenir",
+			"patrones":["prevengo", "prevenir", "como me prevengo?", "como prevenir"],
+			"respuestas":["La OMS está coordinando la labor de desarrollo de vacunas y medicamentos para prevenir y tratar la COVID-19 y seguirá proporcionando información actualizada a medida que se disponga de los resultados de las investigaciones."]
+		},
+		{"tag":"sintomas",
+			"patrones":["sintomas", "que sintomas da el", "cuales son los sintomas del ?"],
+			"respuestas":["Los síntomas más habituales de la COVID-19 son la fiebre, la tos seca y el cansancio. Otros síntomas menos frecuentes que afectan a algunos pacientes son los dolores y molestias, la congestión nasal, el dolor de cabeza, la conjuntivitis, el dolor de garganta, la diarrea, la pérdida del gusto o el olfato y las erupciones cutáneas o cambios de color en los dedos de las manos o los pies. Estos síntomas suelen ser leves y comienzan gradualmente. Algunas de las personas infectadas solo presentan síntomas levísimos."]
+		}
+    ]
+}
